@@ -1,0 +1,28 @@
+package sample;
+
+public class Part {
+    public Process process;
+    private int start;
+    private int end;
+
+    public Part(Process process, int start) {
+        this.process = process;
+        this.start = start;
+    }
+
+    public Process getProcess() {
+        return process;
+    }
+
+    public int getStart() {
+        return start;
+    }
+
+    public int getEnd() {
+        return end;
+    }
+
+    public void complete(int time) {
+        this.end = time;
+    }
+}
