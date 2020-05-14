@@ -1,0 +1,24 @@
+D:\CPU@\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+D:\CPU@\CPU\bin\Debug\CPU.exe.config
+D:\CPU@\CPU\bin\Debug\CPU.exe
+D:\CPU@\CPU\bin\Debug\CPU.pdb
+D:\CPU@\CPU\obj\Debug\CPU.exe
+D:\CPU@\CPU\obj\Debug\CPU.pdb
+D:\CPU@\CPU\obj\Debug\CPU.Form1.resources
+D:\CPU@\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\bin\Debug\CPU.exe.config
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\bin\Debug\CPU.exe
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\bin\Debug\CPU.pdb
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\obj\Debug\CPU.Form1.resources
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.cache
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\obj\Debug\CPU.exe
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\obj\Debug\CPU.pdb
+E:\[.Study.]\.Semester 6\Operating System\PROJEK\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\bin\Debug\CPU.exe.config
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\bin\Debug\CPU.exe
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\bin\Debug\CPU.pdb
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\obj\Debug\CPU.Form1.resources
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\obj\Debug\CPU.exe
+C:\Users\ASUS\Desktop\CPU2\CPU\CPU\obj\Debug\CPU.pdb

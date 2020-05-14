@@ -1,0 +1,102 @@
+﻿/*
+ * Created by SharpDevelop.
+ * User: ASUS
+ * Date: 04/05/2020
+ * Time: 08.56
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace CPU
+{
+	/// <summary>
+	/// Description of Process.
+	/// </summary>
+	public class Process{
+        public Process(){
+        }
+        public Process(int id, int prioritas, int lamaProses, int burstTime, int aksesIO, int clockAwal){
+            this.id = id;
+            this.prioritas = prioritas;
+            this.lamaProses = lamaProses;
+            this.burstTime = burstTime;
+            this.aksesIO = aksesIO;
+            this.clockAwal = clockAwal;
+            this.waitingClock = 0;
+            this.round = 0;
+            this.elapsedclockTime = 0;
+            this.first = true;
+        }
+        private int id;
+        private int prioritas;
+        private int lamaProses;
+        private int burstTime;
+        private int aksesIO;
+        private int clockAwal;
+        private int waitingClock;
+        private int round;
+        private int elapsedclockTime;
+        private Boolean first;
+        public Boolean getFirst(){
+            return first;
+        }
+        public void setFirst(Boolean first){
+            this.first = first;
+        }
+        public int getTime(){
+            return elapsedclockTime;
+        }
+        public void setElapsedClock(int elapsedclockTime){
+            this.elapsedclockTime = elapsedclockTime;
+        }
+        public int getRound(){
+            return round;
+        }
+        public void setRound(int round){
+            this.round = round;
+        }
+        public int getWaitingClock(){
+            return waitingClock;
+        }
+        public void setWaitingClock(int waitingClock){
+            this.waitingClock = waitingClock;
+        }
+        public int getId(){
+            return id;
+        }
+        public void setId(int id){
+            this.id = id;
+        }
+        public int getPrioritas(){
+            return prioritas;
+        }
+        public void setPrioritas(int prioritas){
+            this.prioritas = prioritas;
+        }
+        public int getLamaProses(){
+            return lamaProses;
+        }
+        public void setLamaProses(int lamaProses){
+            this.lamaProses = lamaProses;
+        }
+        public int getBurstTime(){
+            return burstTime;
+        }
+        public void setBurstTime(int burstTime){
+            this.burstTime = burstTime;
+        }
+        public int getAksesIO(){
+            return aksesIO;
+        }
+        public void setAksesIO(int aksesIO){
+            this.aksesIO = aksesIO;
+        }
+        public int getClockAwal(){
+            return clockAwal;
+        }
+        public void setClockAwal(int clockAwal){
+            this.clockAwal = clockAwal;
+        }
+    }
+}
